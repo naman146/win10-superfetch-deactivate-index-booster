@@ -1,0 +1,2 @@
+# win10-superfetch-deactivate-index-booster
+In this a small gui application is developed in python that deactivates the superfetch and indexing service of windows 10 that were causing the disk utilization to 100%.. But that also reduces the searching power of windows. In order to improve that I have added a search method, that is able to search and open any file [if software to open that file is present in system]
